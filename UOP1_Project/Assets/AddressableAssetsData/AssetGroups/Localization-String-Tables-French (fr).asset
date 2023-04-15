@@ -22,48 +22,57 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5a99fcc266fdb48608555d31b49c084b
     m_Address: Actors_fr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5b2ca215bea5b4d32ba9891298b17741
     m_Address: Scene Names_fr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 82aa093807801be48939f725e400e15d
     m_Address: Questline Dialogue_fr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 379b9ca9db427c74bb0cd504865dea33
     m_Address: Critters_fr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4e2db78eee23e479393aedf8e3625b46
     m_Address: Inventory Item Name_fr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5e42d58442b78425db9a6b1aca9a9c43
     m_Address: Buttons_fr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 083d2bd7899c6424fb37092e347b1f87
     m_Address: UI Misc_fr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
     - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 75a54b82bfa6f4f9e8239e9940432c0d
     m_Address: Interactions_fr
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
     - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: bffab80dc16c4464b92b2e97b6a1964c, type: 2}
   m_SchemaSet:

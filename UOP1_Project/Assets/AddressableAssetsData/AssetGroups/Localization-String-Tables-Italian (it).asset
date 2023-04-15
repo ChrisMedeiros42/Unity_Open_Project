@@ -22,32 +22,38 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 814875ad6f732459cbcaa6b34f05a466
     m_Address: Inventory Item Name_it
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f584e44a7ba44433c9f0a1b1a6aa6d3d
     m_Address: Inventory Item Description_it
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 529d8c518367c45209cd34683f17a4f9
     m_Address: UI Misc_it
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-it
     - Preload
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8d64c2a9fccc2614baa07c24841aca37
     m_Address: Actors_it
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 6ff28064e4e684b65b9c22aa501c01c5
     m_Address: Interactions_it
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-it
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: bffab80dc16c4464b92b2e97b6a1964c, type: 2}
   m_SchemaSet:

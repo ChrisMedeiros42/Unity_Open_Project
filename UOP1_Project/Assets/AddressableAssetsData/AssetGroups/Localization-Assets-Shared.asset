@@ -21,38 +21,47 @@ MonoBehaviour:
     m_Address: Scene Names Shared Data
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f81a49615d56c1a4fbbd14b4569b06f3
     m_Address: Questline Dialogue Shared Data
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9c592d2d4c7fc459f94a645873569195
     m_Address: Actors Shared Data
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 41b74adf4121a468e9dbe8958eb2f813
     m_Address: Inventory Item Name Shared Data
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 63bf683e4210c4e48a201dfa773125d5
     m_Address: Inventory Item Description Shared Data
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7e97a5d681d6e4480b18b504a66e69b2
     m_Address: Buttons Shared Data
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: aa5b18277a15a4113950a3cc2f1e9909
     m_Address: Interactions Shared Data
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 753c1cc38ecdc5a4b93227e74555c8d7
     m_Address: Critters Shared Data
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 457af5455987a4876acc4332c3a761e5
     m_Address: Assets/UI/UI Misc Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: bffab80dc16c4464b92b2e97b6a1964c, type: 2}
   m_SchemaSet:
