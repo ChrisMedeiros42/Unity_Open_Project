@@ -7,11 +7,11 @@
       "dependencies": {}
     },
     "com.unity.addressables": {
-      "version": "1.21.14",
+      "version": "1.21.15",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.scriptablebuildpipeline": "1.21.7",
+        "com.unity.scriptablebuildpipeline": "1.21.8",
         "com.unity.modules.assetbundle": "1.0.0",
         "com.unity.modules.imageconversion": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0",
@@ -40,7 +40,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.burst": {
-      "version": "1.8.7",
+      "version": "1.8.8",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -149,7 +149,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.probuilder": {
-      "version": "5.1.0",
+      "version": "5.1.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -191,7 +191,7 @@
       }
     },
     "com.unity.scriptablebuildpipeline": {
-      "version": "1.21.7",
+      "version": "1.21.8",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
